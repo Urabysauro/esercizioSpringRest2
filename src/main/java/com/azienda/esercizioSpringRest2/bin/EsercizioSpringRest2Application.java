@@ -12,6 +12,8 @@ public class EsercizioSpringRest2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EsercizioSpringRest2Application.class, args);
+
+
 	}
 
 }
